@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: pietroborrelli
+Build-Jdk: 9
+Implementation-Title: spring-boot-cassandra
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: spring-boot-cassandra
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ cassandra/
+Created-By: Maven Integration for Eclipse
+
