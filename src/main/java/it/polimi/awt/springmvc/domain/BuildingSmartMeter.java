@@ -9,8 +9,7 @@ import javax.persistence.Table;
 
 @Data
 @Entity
-//@Table ("building_smart_meterbuilding")
-@Table(name="building_smart_meter")
+ @Table(name="building_smart_meter")
 public class BuildingSmartMeter {
 	@Id String smartMeterId;
 	Integer districtOid;
